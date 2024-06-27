@@ -1,0 +1,16 @@
+{
+    "name": "n8n",
+    "version": "1.0.0",
+    "description": "n8n - Workflow Automation Tool",
+    "main": "index.js",
+    "scripts": {
+      "start": "n8n start"
+    },
+    "dependencies": {
+      "n8n": "^1.0.0"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
+  
